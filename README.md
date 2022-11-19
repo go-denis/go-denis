@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I have worked as a Full Stack developer for more than 3 years, smoothly switching to java and everything related to it.
+I'm also gradually learning golang and will soon launch my small project using this language, so stay tuned :)
+- 🌱 Learning a language Golang.
+- 💞️ I like to solve difficult tasks and understand complex things.
+I want to create something truly useful
+- 📫 go-denis@mail.ru
 
 <!---
 go-denis/go-denis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
