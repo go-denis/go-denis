@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis
-- 👀 I have worked as a Full Stack developer for more than 3 years, smoothly switching to java and everything related to it.
+- 👀 I have worked as a Full Stack developer for more than 3 years.
 I'm also gradually learning golang and will soon launch my small project using this language, so stay tuned :)
 - 🌱 Learning a language Golang.
 - 💞️ I like to solve difficult tasks and understand complex things.
