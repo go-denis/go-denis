@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Code+machine)](https://git.io/typing-svg)
 - 👋 Hi, I’m Denis
 - 👀 I have worked as a Full Stack developer for more than 3 years.
 I'm also gradually learning golang and will soon launch my small project using this language, so stay tuned :)
