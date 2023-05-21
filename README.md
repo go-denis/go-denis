@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" >
-<img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=go-denis&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denis</a> 
@@ -46,6 +46,9 @@ I want to create something truly useful
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=go-denis&theme=dark&background=000000)](https://git.io/streak-stats)
 <!---
 go-denis/go-denis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
