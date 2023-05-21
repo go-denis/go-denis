@@ -18,12 +18,7 @@
 <h2 align="center">I have been working with a full-stack developer for more than 3 years. My Technology stack:  Laravel, PHP, Sql, Mysql, Postgresql, Mysql, Git, Docker, Kubernetes, Sass, CSS, Javascript, Jquery, Blade, HTML</h2>
 <h3 align="center">Learning a language Golang</h3>
 
-- 👋 Hi, I’m Denis
-- 👀 I have worked as a Full Stack developer for more than 3 years.
-I'm also gradually learning golang and will soon launch my small project using this language, so stay tuned :)
-- 🌱 Learning a language Golang.
-- 💞️ I like to solve difficult tasks and understand complex things.
-I want to create something truly useful
+
 - 📫 go-denis@mail.ru
 
 
