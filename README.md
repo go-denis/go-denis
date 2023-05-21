@@ -25,7 +25,8 @@ I'm also gradually learning golang and will soon launch my small project using t
 - 💞️ I like to solve difficult tasks and understand complex things.
 I want to create something truly useful
 - 📫 go-denis@mail.ru
-- 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
