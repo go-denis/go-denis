@@ -4,6 +4,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="www.linkedin.com/in/denis-simonov-a0b7b4275" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://www.youtube.com/channel/UCy0jrTEKmzVBqGxBmu7Wtow/" alt="Youtube Badge"/>
+  </a>
+ 
+</div>
+
+
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">I have been working with a full-stack developer for more than 3 years. My Technology stack:  Laravel, PHP, Sql, Mysql, Postgresql, Mysql, Git, Docker, Kubernetes, Sass, CSS, Javascript, Jquery, Blade, HTML</h2>
