@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denis</a> 
+<h1 align="center">Hi there, I'm <a target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">I have been working a full-stack developer for more than 10 years. My Technology stack:  Laravel, PHP, Sql, Mysql, Postgresql, Mysql, Git, Docker, Kubernetes, Sass, CSS, Javascript, Jquery, Blade, HTML</h2>
 
