@@ -18,13 +18,13 @@
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/go-denis" target="_blank">Denis</a> 
-  <h3 align="center">Senior Full‑Stack Web & Mobile Developer | Go · Laravel · React · React Native · AI</h3>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Senior Full‑Stack Web & Mobile Developer | Go · Laravel · React · React Native · AI</h2>
 
 ### 🧑‍💻 About Me
 
-I’m a **Senior Full‑Stack & Mobile Developer** with 8+ years of experience building scalable web and mobile solutions.  
-My sweet spot: **rock‑solid backends** (Go, Laravel, PHP, Node.js), **modern frontends** (React, Next.js, TypeScript), **cross‑platform mobile apps** (React Native), and **AI integration** (OpenAI, Claude, LangChain).
+<h3> I’m a **Senior Full‑Stack & Mobile Developer** with 10+ years of experience building scalable web and mobile solutions. </h3>
+<p>My sweet spot: **rock‑solid backends** (Go, Laravel, PHP, Node.js), **modern frontends** (React, Next.js, TypeScript), **cross‑platform mobile apps** (React Native), and **AI integration** (OpenAI, Claude, LangChain). </p>
 
 - 🔭 Currently working on high‑load microservices and AI‑powered SaaS platforms.
 - 🌱 Exploring advanced Go concurrency patterns and vector databases.
