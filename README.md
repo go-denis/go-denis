@@ -85,10 +85,10 @@ My sweet spot: **rock‑solid backends** (Go, Laravel, PHP, Node.js), **modern f
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~your_upwork"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://t.me/plexipi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01502bffcce065261e?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://plexipi.com"><img src="https://img.shields.io/badge/Website-plexipi.com-1e3c72?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/denis-simonov-a0b7b4275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
